@@ -1,7 +1,13 @@
 ---
 title: "Jakarta Flood EO Project"
 author: "Bella, Zack, Zoe"
-format: revealjs
+format:
+  revealjs:
+    theme: moon
+    slide-number: true
+    transition: fade
+    center: false
+    css: styles.css
 editor: visual
 ---
 
@@ -16,7 +22,7 @@ editor: visual
 -   Effective under cloud cover and during extreme weather\
 -   Suitable for rapid flood detection in urban environments
 
-![](img/jakarta_sar_visual.png){width="100%"}
+![](img/jakarta_sar_visual.png){width="120%"}
 
 ------------------------------------------------------------------------
 
@@ -26,7 +32,7 @@ editor: visual
 -   Identifies urban areas, vegetation, and infrastructure...\
 -   Supports interpretation of flood impacts in built environments
 
-![](img/jakarta_Sentinel2_visual.png){width="100%"}
+![](img/jakarta_Sentinel2_visual.png){width="120%"}
 
 ------------------------------------------------------------------------
 
@@ -71,7 +77,7 @@ editor: visual
 :::
 
 ::: column
-![](img/Thailand Flood Monitoring Dashboard.png){width="95%"}
+![](img/Thailand Flood Monitoring Dashboard.png){width="120%"}
 <small>
 Example of a GIS-based dashboard for flood monitoring and decision support (Source: UNOSAT)
 </small>
