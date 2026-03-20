@@ -3,10 +3,10 @@
     font-size: 1.4em;
   }
 
-/* Body text and bullet points */
+/* Body text */
   .reveal p,
 .reveal li {
-  font-size: 0.6em;
+  font-size: 0.7em;
 }
 
 /* Two-column spacing */
