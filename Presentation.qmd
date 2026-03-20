@@ -9,11 +9,74 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## EO Data
+## Sentinel-1 SAR: Flood Detection Capability
+
+-   Synthetic Aperture Radar (SAR) captures surface backscatter\
+-   Water surfaces → low backscatter (dark areas)\
+-   Effective under cloud cover and during extreme weather\
+-   Suitable for rapid flood detection in urban environments
+
+![](img/jakarta_sar_visual.png){width="100%"}
 
 ------------------------------------------------------------------------
 
-## EO Workflow
+## Sentinel-2 Optical: Urban Context
+
+-   Multispectral imagery provides land surface information\
+-   Identifies urban areas, vegetation, and infrastructure...\
+-   Supports interpretation of flood impacts in built environments
+
+![](img/jakarta_Sentinel2_visual.png){width="100%"}
+
+------------------------------------------------------------------------
+
+## EO Workflow for Flood Detection in Jakarta
+
+::::: columns
+::: column
+- Integration of SAR and optical EO data  
+- Cloud-based processing using Google Earth Engine  
+- Robust flood detection using SAR backscatter  
+- Urban context interpretation using optical imagery  
+:::
+
+::: column
+![](img/workflow%20ver2.png){width="95%"}
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Integration into City Data Workflows
+
+::::: columns
+::: column
+- EO-based flood detection enables **near real-time monitoring** of urban flooding  
+  using Sentinel-1 SAR, which is robust to cloud cover (Twele et al., 2016)
+
+- Outputs can be integrated into **GIS-based dashboards**, supporting spatial  
+  decision-making across urban systems (Schumann & Di Baldassarre, 2010)
+
+- Supports key applications:
+  - Emergency response and evacuation planning  
+  - Infrastructure and drainage management  
+  - Long-term flood risk assessment  
+
+- Cloud platforms such as **Google Earth Engine enable scalable and automated  
+  processing pipelines**, reducing technical and operational barriers  
+  (Gorelick et al., 2017)
+
+- Facilitates a shift from **reactive disaster response to proactive,  
+  data-driven urban governance**, enhancing urban resilience (Tellman et al., 2021)
+:::
+
+::: column
+![](img/Thailand Flood Monitoring Dashboard.png){width="95%"}
+<small>
+Example of a GIS-based dashboard for flood monitoring and decision support (Source: UNOSAT)
+</small>
+:::
+:::::
 
 ------------------------------------------------------------------------
 
