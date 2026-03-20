@@ -1,0 +1,20 @@
+/* Slide title */
+  .reveal h2 {
+    font-size: 1.6em;
+  }
+
+/* Body text and bullet points */
+  .reveal p,
+.reveal li {
+  font-size: 0.8em;
+}
+
+/* Two-column spacing */
+  .reveal .columns {
+    gap: 20px;
+  }
+
+/* Slide padding */
+  .reveal section {
+    padding: 10px 40px;
+  }
