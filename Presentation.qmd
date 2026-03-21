@@ -24,7 +24,7 @@ editor: visual
 :::
 
 ::: column
-![Administrative boundary of Jakarta (Source: Jakarta Provincial Government, 2024)](img/Jakarta_boundaries.png){width="100%"}
+![Administrative boundary of Jakarta (Source: Jakarta Satu Geoportal)](img/Jakarta_boundaries.png){width="100%"}
 :::
 
 :::::
@@ -50,7 +50,7 @@ Jakarta is highly vulnerable to flooding, driven by:\
 :::
 
 ::: column
-![Flooding in coastal areas of Jakarta. (Source: Abidin et al.2011)](img/Jakarta_flood.png){width="100%"}
+![Flooding in coastal areas of Jakarta (Source: Abidin et al.2011)](img/Jakarta_flood.png){width="100%"}
 :::
 
 :::::
@@ -72,6 +72,25 @@ Local Policies:\
 -   NCICD (National Capital Integrated Coastal Development): coastal protection and sea defense infrastructure\
 
 ------------------------------------------------------------------------
+
+## Research Gap
+
+::::: columns
+::: column 
+-   Flood events are spatially widespread across Jakarta\
+-   Existing data are mostly event-based and static (not real time)\
+-   Limited high-resolution spatial monitoring\
+-   Current approaches do not fully capture flood dynamics\
+-   Earth Observation (EO) enables near real-time monitoring\
+:::
+
+::: column
+![Flood monitoring data in Jakarta (Source: Jakarta Satu Geoportal)](img/Flood_distribution.png){witdh="100%"}
+
+:::
+:::::
+
+--------------------------------------------------------------------------------
 
 ## Sentinel-1 SAR: Flood Detection Capability
 
