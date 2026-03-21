@@ -42,9 +42,9 @@ Jakarta is highly vulnerable to flooding, driven by:\
 -   Sea level rise and coastal exposure\
 -   Rapid urbanisation and landuse change\
 
-**Impacts:\**
+Impacts:\
 
--   Distruption to infrastructure and urban mobility\
+-   Disruption to infrastructure and urban mobility\
 -   Economic losses\
 -   Major flood events (2007, 2011, 2013, 2020)\
 :::
