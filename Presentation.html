@@ -6,8 +6,8 @@
 <script src="Presentation_files/libs/quarto-html/tippy.umd.min.js"></script>
 <link href="Presentation_files/libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="Presentation_files/libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="Presentation_files/libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.32">
+<link href="Presentation_files/libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.8.26">
 
   <meta name="author" content="Bella, Zack, Zoe">
   <title>Jakarta Flood EO Project</title>
@@ -29,7 +29,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="Presentation_files/libs/revealjs/dist/theme/quarto-0c8acc74dca0c2faaedea4940f202713.css">
+  <link rel="stylesheet" href="Presentation_files/libs/revealjs/dist/theme/quarto-06e768f098560084c2d7120de8ad04fb.css">
   <link rel="stylesheet" href="styles.css">
   <link href="Presentation_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="Presentation_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -139,8 +139,60 @@ Bella, Zack, Zoe
 </div>
 
 </section>
-<section id="introduction" class="slide level2">
-<h2>Introduction</h2>
+<section id="study-case-jakarta" class="slide level2">
+<h2>Study Case: Jakarta</h2>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Capital city of Indonesia<br>
+</li>
+<li>Population of approximately 10.5 million (BPS, 2023)<br>
+</li>
+<li>Coastal Megacity<br>
+</li>
+<li>Located on a low-laying deltaic plain intersected by 13 rivers (Abidin et al., 2015)<br>
+</li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="img/Jakarta_boundaries.png" style="width:100.0%"></p>
+<figcaption>Administrative boundary of Jakarta (Source: Jakarta Provincial Government, 2024)</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="urban-problem" class="slide level2">
+<h2>Urban Problem</h2>
+<div class="columns">
+<div class="column">
+<p>Jakarta is highly vulnerable to flooding, driven by:<br>
+</p>
+<ul>
+<li>Land subsidence (up to 25cm/year in some areas) (Arbin et al., 2011)<br>
+</li>
+<li>Sea level rise and coastal exposure<br>
+</li>
+<li>Rapid urbanisation and landuse change<br>
+</li>
+</ul>
+<p>**Impacts:**</p>
+<ul>
+<li>Distruption to infrastructure and urban mobility<br>
+</li>
+<li>Economic losses<br>
+</li>
+<li>Major flood events (2007, 2011, 2013, 2020)<br>
+</li>
+</ul>
+</div><div class="column">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="img/Jakarta_flood.png" style="width:100.0%"></p>
+<figcaption>Flooding in coastal areas of Jakarta. (Source: Abidin et al.2011)</figcaption>
+</figure>
+</div>
+</div></div>
 </section>
 <section id="sentinel-1-sar-flood-detection-capability" class="slide level2">
 <h2>Sentinel-1 SAR: Flood Detection Capability</h2>
@@ -409,7 +461,7 @@ data-driven urban governance</strong>, enhancing urban resilience (Tellman et al
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -483,13 +535,14 @@ data-driven urban governance</strong>, enhancing urban resilience (Tellman et al
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy

@@ -11,7 +11,49 @@ format:
 editor: visual
 ---
 
-## Introduction
+## Study Case: Jakarta
+
+::::: columns
+
+::: column
+-   Capital city of Indonesia\
+-   Population of approximately 10.5 million (BPS, 2023)\
+-   Coastal Megacity\
+-   Located on a low-laying deltaic plain intersected by 13 rivers 
+(Abidin et al., 2015)\
+:::
+
+::: column
+![Administrative boundary of Jakarta (Source: Jakarta Provincial Government, 2024)](img/Jakarta_boundaries.png){width="100%"}
+:::
+
+:::::
+
+------------------------------------------------------------------------
+
+## Urban Problem
+
+::::: columns
+
+::: column
+Jakarta is highly vulnerable to flooding, driven by:\
+
+-   Land subsidence (up to 25cm/year in some areas) (Arbin et al., 2011)\
+-   Sea level rise and coastal exposure\
+-   Rapid urbanisation and landuse change\
+
+**Impacts:\**
+
+-   Distruption to infrastructure and urban mobility\
+-   Economic losses\
+-   Major flood events (2007, 2011, 2013, 2020)\
+:::
+
+::: column
+![Flooding in coastal areas of Jakarta. (Source: Abidin et al.2011)](img/Jakarta_flood.png){width="100%"}
+:::
+
+:::::
 
 ------------------------------------------------------------------------
 
@@ -52,10 +94,10 @@ editor: visual
 
 ::::: columns
 ::: column
-- Integration of SAR and optical EO data  
-- Cloud-based processing using Google Earth Engine  
-- Robust flood detection using SAR backscatter  
-- Urban context interpretation using optical imagery  
+-   Integration of SAR and optical EO data\
+-   Cloud-based processing using Google Earth Engine\
+-   Robust flood detection using SAR backscatter\
+-   Urban context interpretation using optical imagery\
 :::
 
 ::: column
@@ -69,24 +111,21 @@ editor: visual
 
 ::::: columns
 ::: column
-- EO-based flood detection enables **near real-time monitoring** of urban flooding  
-  using Sentinel-1 SAR, which is robust to cloud cover (Twele et al., 2016)
+-   EO-based flood detection enables **near real-time monitoring** of urban flooding\
+    using Sentinel-1 SAR, which is robust to cloud cover (Twele et al., 2016)
 
-- Outputs can be integrated into **GIS-based dashboards**, supporting spatial  
-  decision-making across urban systems (Schumann & Di Baldassarre, 2010)
+-   Outputs can be integrated into **GIS-based dashboards**, supporting spatial\
+    decision-making across urban systems (Schumann & Di Baldassarre, 2010)
 
-- Cloud platforms such as **Google Earth Engine enable scalable and automated  
-  processing pipelines**, reducing technical and operational barriers  
+-   Cloud platforms such as **Google Earth Engine enable scalable and automated\
+    processing pipelines**, reducing technical and operational barriers
 
-- Facilitates a shift from **reactive disaster response to proactive,  
-  data-driven urban governance**, enhancing urban resilience (Tellman et al., 2021)
+-   Facilitates a shift from **reactive disaster response to proactive,\
+    data-driven urban governance**, enhancing urban resilience (Tellman et al., 2021)
 :::
 
 ::: column
-![](img/Thailand Flood Monitoring Dashboard.png){style="width: 120%; display: block; margin: 0 auto;"}
-<small>
-Example of a GIS-based dashboard for flood monitoring and decision support (Source: UNOSAT)
-</small>
+![](img/Thailand%20Flood%20Monitoring%20Dashboard.png){style="width: 120%; display: block; margin: 0 auto;"} <small> Example of a GIS-based dashboard for flood monitoring and decision support (Source: UNOSAT) </small>
 :::
 :::::
 
@@ -97,6 +136,5 @@ Example of a GIS-based dashboard for flood monitoring and decision support (Sour
 ------------------------------------------------------------------------
 
 ## Reference
-
 
 ------------------------------------------------------------------------

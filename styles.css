@@ -18,3 +18,11 @@
   .reveal section {
     padding: 10px 40px;
   }
+
+/* Caption for all pictures */
+  .reveal figcaption {
+    font-size: 0.35em !important;
+    color: #bbbbb;
+    text-align: center;
+    margin-top: 5px;
+  }
