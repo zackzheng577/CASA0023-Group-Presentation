@@ -57,6 +57,22 @@ Jakarta is highly vulnerable to flooding, driven by:\
 
 ------------------------------------------------------------------------
 
+## Policy Context
+
+Global Frameworks:\
+
+-   SDG 11 (UN, 2015): urban resilience and sustainable cities\
+-   SDG 13 (UN, 2015): climate adaptation and mitigation\
+-   Sendai Framework (UNDRR,2015): disaster risk reduction and resilience building\
+
+Local Policies:\
+
+-   BNPB: disaster mitigation, emergency response, and recovery\
+-   Jakarta flood management: drainage improvement and river normalization\
+-   NCICD (National Capital Integrated Coastal Development): coastal protection and sea defense infrastructure\
+
+------------------------------------------------------------------------
+
 ## Sentinel-1 SAR: Flood Detection Capability
 
 ::::: columns
