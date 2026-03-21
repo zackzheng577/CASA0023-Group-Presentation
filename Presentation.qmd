@@ -38,7 +38,7 @@ editor: visual
 ::: column
 Jakarta is highly vulnerable to flooding, driven by:\
 
--   Land subsidence (up to 25cm/year in some areas) (Arbin et al., 2011)\
+-   Land subsidence (up to 25cm/year in some areas) (Abidin et al., 2011)\
 -   Sea level rise and coastal exposure\
 -   Rapid urbanisation and landuse change\
 
@@ -171,5 +171,17 @@ Local Policies:\
 ------------------------------------------------------------------------
 
 ## Reference
+
+Abidin, H. Z., Andreas, H., Gumilar, I., & Wibowo, I. R. R. (2015). On correlation between urban development, land subsidence and flooding phenomena in Jakarta. Proceedings of the International Association of Hydrological Sciences, 370, 15–20. https://doi.org/10.5194/piahs-370-15-2015 :contentReference[oaicite:0]{index=0}\
+
+Abidin, H. Z., Andreas, H., Gumilar, I., Fukuda, Y., Pohan, Y. E., & Deguchi, T. (2011). Land subsidence of Jakarta (Indonesia) and its relation with urban development. Natural Hazards, 59, 1753–1771.\
+
+Badan Pusat Statistik (BPS). (2023). Jakarta in Figures 2023.BPS-Statistics Indonesia.\
+
+Jakarta Satu. (n.d.). Jakarta Satu Geoportal.https://jakartasatu.jakarta.go.id/\
+
+United Nations. (2015). Transforming our world: The 2030 Agenda for Sustainable Development.\
+
+United Nations Office for Disaster Risk Reduction (UNDRR). (2015). Sendai Framework for Disaster Risk Reduction 2015–2030.\
 
 ------------------------------------------------------------------------
