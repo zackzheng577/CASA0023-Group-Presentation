@@ -68,3 +68,53 @@
 .big-text ul {
   margin-bottom: 4px;
 }
+
+
+/* budget-final */
+.budget-final p,
+.budget-final li {
+  font-size: 0.72em !important;
+  line-height: 1.25;
+}
+
+.budget-final h2 {
+  font-size: 1.2em;
+}
+
+.budget-final h3 {
+  font-size: 0.95em;
+  margin-bottom: 0.3em;
+}
+
+.budget-final .columns {
+  gap: 30px;
+  align-items: flex-start;
+}
+
+.bar {
+  width: 100%;
+  height: 6px;
+  background: rgba(255,255,255,0.12);
+  border-radius: 999px;
+  margin: 3px 0 8px 0;
+}
+
+.bar span {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: rgba(255,255,255,0.7);
+}
+
+
+/* closing-line  */
+.closing-line {
+  position: absolute;
+  bottom: 28px;
+  left: 60px;
+  right: 60px;
+  font-size: 0.75em;
+  border-top: 1px solid rgba(255,255,255,0.2);
+  padding-top: 10px;
+  opacity: 0.9;
+}

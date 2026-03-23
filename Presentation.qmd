@@ -263,6 +263,86 @@ Local Policies:\
 
 ------------------------------------------------------------------------
 
+## Estimated Spending Plan and Value for Money {.wp-slide .budget-slide}
+
+::::: columns
+
+::: {.column width="58%"}
+### Budget Allocation
+
+- WP1 Scoping and User Requirements — **£50,000**
+- WP2 EO Workflow Operationalisation — **£140,000**
+- WP3 Pilot Flood Mapping and Product Generation — **£130,000**
+- WP4 Stakeholder Review and Capacity Building — **£80,000**
+- WP5 Final Reporting and Handover — **£100,000**
+<br>
+**Total: £500,000**
+:::
+
+::: {.column width="42%"}
+### Value for Money
+
+- Uses openly available Sentinel EO data
+
+- Employs Google Earth Engine for scalable processing
+
+- Focuses on a realistic pilot rather than a full rollout
+
+- Creates outputs that support future planning and resilience decisions
+:::
+
+:::::
+
+<div class="closing-line">
+Overall, the proposal is designed to be realistic, cost-effective and scalable within the available budget.
+</div>
+
+------------------------------------------------------------------------
+
+## Estimated Spending Plan and Value for Money {.wp-slide .budget-final}
+
+::::: columns
+
+::: {.column width="55%"}
+### Budget Allocation
+
+WP1 — £50k  
+<div class="bar"><span style="width: 10%;"></span></div>
+
+WP2 — £140k  
+<div class="bar"><span style="width: 28%;"></span></div>
+
+WP3 — £130k  
+<div class="bar"><span style="width: 26%;"></span></div>
+
+WP4 — £80k  
+<div class="bar"><span style="width: 16%;"></span></div>
+
+WP5 — £100k  
+<div class="bar"><span style="width: 20%;"></span></div>
+
+**Total: £500k**
+:::
+
+::: {.column width="45%"}
+### Value for Money
+
+- Uses openly available Sentinel EO data  
+
+- Employs Google Earth Engine for scalable processing  
+
+- Focuses on a realistic pilot rather than a full rollout  
+
+- Creates outputs that support future planning and resilience decisions  
+:::
+
+:::::
+
+<div class="closing-line">
+Overall, the proposal is designed to be realistic, cost-effective and scalable within the available budget.
+</div>
+------------------------------------------------------------------------
+
 ## Reference
 
 Abidin, H. Z., Andreas, H., Gumilar, I., & Wibowo, I. R. R. (2015). On correlation between urban development, land subsidence and flooding phenomena in Jakarta. Proceedings of the International Association of Hydrological Sciences, 370, 15–20. https://doi.org/10.5194/piahs-370-15-2015 :contentReference[oaicite:0]{index="0"}\
