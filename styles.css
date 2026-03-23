@@ -53,3 +53,18 @@
   margin-bottom: 3px;
   line-height: 1.25;
 }
+
+/* stakeholder */
+.big-text p,
+.big-text li {
+  font-size: 0.78em !important;
+  line-height: 1.25;
+}
+
+.big-text h3 {
+  font-size: 1em;
+}
+
+.big-text ul {
+  margin-bottom: 4px;
+}

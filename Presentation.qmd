@@ -211,7 +211,55 @@ Local Policies:\
 :::::
 ------------------------------------------------------------------------
 
-## TEST 
+## Stakeholder Engagement Plan {.wp-slide .big-text}
+
+::::: columns
+
+::: {.column width="33%"}
+### Who
+
+- Disaster management agencies
+  (e.g. BNPB / relevant disaster management users)
+
+- Urban planning and public works teams
+  (drainage, infrastructure, planning relevance)
+
+- Jakarta GIS / geoportal data users
+  (spatial data integration and uptake)
+
+- Local stakeholders / end users
+  (flood-prone communities)
+:::
+
+::: {.column width="33%"}
+### When
+
+- Month 1 — Kick-off workshop
+  confirm needs, priorities and outputs  
+
+- Month 6 — Mid-project technical review  
+  review workflow readiness and pilot design  
+
+- Month 8–9 — Pilot feedback session
+  assess usability of flood maps and outputs  
+
+- Month 12 — Final training & handover 
+  support adoption and scaling
+:::
+
+::: {.column width="33%"}
+### Why
+
+- ensure outputs match city needs 
+
+- improve usability of EO products
+
+- support cross-sector coordination 
+
+- strengthen operational uptake  
+:::
+
+:::::
 
 ------------------------------------------------------------------------
 
