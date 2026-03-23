@@ -353,7 +353,16 @@ Badan Pusat Statistik (BPS). (2023). Jakarta in Figures 2023.BPS-Statistics Indo
 
 Jakarta Satu. (n.d.). Jakarta Satu Geoportal.https://jakartasatu.jakarta.go.id/\
 
+Schumann, G.J.-P. & Di Baldassarre, G. (2010) The direct use of radar satellites for event-specific flood risk mapping. Hydrological Processes.
+
+Tellman, B. et al. (2021) Satellite imaging reveals increased proportion of population exposed to floods. Nature.
+
+Twele, A. et al. (2016) Sentinel-1-based flood mapping: a fully automated processing chain. Remote Sensing.
+
 United Nations. (2015). Transforming our world: The 2030 Agenda for Sustainable Development.\
 
 United Nations Office for Disaster Risk Reduction (UNDRR). (2015). Sendai Framework for Disaster Risk Reduction 2015–2030.\
+
+
+
 
