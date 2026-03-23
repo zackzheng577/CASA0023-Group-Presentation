@@ -14,19 +14,16 @@ editor: visual
 ## Study Case: Jakarta
 
 ::::: columns
-
 ::: column
 -   Capital city of Indonesia\
 -   Population of approximately 10.5 million (BPS, 2023)\
 -   Coastal Megacity\
--   Located on a low-laying deltaic plain intersected by 13 rivers 
-(Abidin et al., 2015)\
+-   Located on a low-laying deltaic plain intersected by 13 rivers (Abidin et al., 2015)\
 :::
 
 ::: column
 ![Administrative boundary of Jakarta (Source: Jakarta Satu Geoportal)](img/Jakarta_boundaries.png){width="100%"}
 :::
-
 :::::
 
 ------------------------------------------------------------------------
@@ -34,7 +31,6 @@ editor: visual
 ## Urban Problem
 
 ::::: columns
-
 ::: column
 Jakarta is highly vulnerable to flooding, driven by:\
 
@@ -52,7 +48,6 @@ Impacts:\
 ::: column
 ![Flooding in coastal areas of Jakarta (Source: Abidin et al.2011)](img/Jakarta_flood.png){width="100%"}
 :::
-
 :::::
 
 ------------------------------------------------------------------------
@@ -76,7 +71,7 @@ Local Policies:\
 ## Research Gap
 
 ::::: columns
-::: column 
+::: column
 -   Flood events are spatially widespread across Jakarta\
 -   Existing data are mostly event-based and static (not real time)\
 -   Limited high-resolution spatial monitoring\
@@ -86,11 +81,10 @@ Local Policies:\
 
 ::: column
 ![Flood monitoring data in Jakarta (Source: Jakarta Satu Geoportal)](img/Flood_distribution.png){witdh="100%"}
-
 :::
 :::::
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## Sentinel-1 SAR: Flood Detection Capability
 
@@ -166,13 +160,64 @@ Local Policies:\
 
 ------------------------------------------------------------------------
 
-## Budget
+## Project Structure and Work Packages {.wp-slide}
+
+::::: columns
+
+::: {.column .wpbox .wp1}
+### WP1 - Scoping
+
+- confirm policy and operational needs in Jakarta
+- define priority flood use cases
+- align expected outputs with city users
+:::
+
+::: {.column .wpbox .wp2}
+### WP2 - Workflow
+
+- translate the proposed EO workflow into an operational pilot
+- organise Sentinel-1 / Sentinel-2 processing steps in Google Earth Engine
+- define standard output formats
+:::
+
+::: {.column .wpbox .wp3}
+### WP3 - Pilot Mapping
+
+- produce pilot flood detection maps
+- generate urban context layers
+- identify recurrent flood hotspots
+:::
+
+:::::
+
+::::: columns
+
+::: {.column .wpbox .wp4}
+### WP4 - Review & Training
+
+- review pilot outputs with users
+- collect feedback on usability
+- support training and uptake
+:::
+
+::: {.column .wpbox .wp5}
+### WP5 - Handover
+
+- deliver final outputs and documentation
+- prepare a handover package
+- provide recommendations for future rollout
+:::
+
+:::::
+------------------------------------------------------------------------
+
+## TEST 
 
 ------------------------------------------------------------------------
 
 ## Reference
 
-Abidin, H. Z., Andreas, H., Gumilar, I., & Wibowo, I. R. R. (2015). On correlation between urban development, land subsidence and flooding phenomena in Jakarta. Proceedings of the International Association of Hydrological Sciences, 370, 15–20. https://doi.org/10.5194/piahs-370-15-2015 :contentReference[oaicite:0]{index=0}\
+Abidin, H. Z., Andreas, H., Gumilar, I., & Wibowo, I. R. R. (2015). On correlation between urban development, land subsidence and flooding phenomena in Jakarta. Proceedings of the International Association of Hydrological Sciences, 370, 15–20. https://doi.org/10.5194/piahs-370-15-2015 :contentReference[oaicite:0]{index="0"}\
 
 Abidin, H. Z., Andreas, H., Gumilar, I., Fukuda, Y., Pohan, Y. E., & Deguchi, T. (2011). Land subsidence of Jakarta (Indonesia) and its relation with urban development. Natural Hazards, 59, 1753–1771.\
 
@@ -184,4 +229,3 @@ United Nations. (2015). Transforming our world: The 2030 Agenda for Sustainable 
 
 United Nations Office for Disaster Risk Reduction (UNDRR). (2015). Sendai Framework for Disaster Risk Reduction 2015–2030.\
 
-------------------------------------------------------------------------
