@@ -209,6 +209,66 @@ Local Policies:\
 :::
 
 :::::
+
+------------------------------------------------------------------------
+
+## Project Timeline and Milestones
+
+![](img/gantt.png){width="94%" fig-align="center"}
+
+*Phased pilot approach from scoping → workflow → testing → uptake.*
+
+------------------------------------------------------------------------
+
+## Key Deliverables {.deliverables-slide}
+
+::::: columns
+
+::: {.column width="20%"}
+### D1  
+**Scoping and Requirements Brief**
+
+- user needs  
+- priority use cases  
+- expected outputs  
+:::
+
+::: {.column width="20%"}
+### D2  
+**EO Workflow Prototype**
+
+- operational workflow in Google Earth Engine
+- standard processing steps
+- output specification 
+:::
+
+::: {.column width="20%"}
+### D3  
+**Pilot Outputs Package**
+
+- flood detection maps  
+- urban context maps  
+- hotspot identification  
+:::
+
+::: {.column width="20%"}
+### D4  
+**Review & Training Materials**
+
+- feedback summary  
+- training notes / user guide  
+:::
+
+::: {.column width="20%"}
+### D5  
+**Final Handover Package**
+
+- final outputs  
+- implementation recommendations  
+- scaling strategy  
+:::
+
+:::::
 ------------------------------------------------------------------------
 
 ## Stakeholder Engagement Plan {.wp-slide .big-text}
@@ -261,43 +321,9 @@ Local Policies:\
 
 :::::
 
-------------------------------------------------------------------------
-
-## Estimated Spending Plan and Value for Money {.wp-slide .budget-slide}
-
-::::: columns
-
-::: {.column width="58%"}
-### Budget Allocation
-
-- WP1 Scoping and User Requirements — **£50,000**
-- WP2 EO Workflow Operationalisation — **£140,000**
-- WP3 Pilot Flood Mapping and Product Generation — **£130,000**
-- WP4 Stakeholder Review and Capacity Building — **£80,000**
-- WP5 Final Reporting and Handover — **£100,000**
-<br>
-**Total: £500,000**
-:::
-
-::: {.column width="42%"}
-### Value for Money
-
-- Uses openly available Sentinel EO data
-
-- Employs Google Earth Engine for scalable processing
-
-- Focuses on a realistic pilot rather than a full rollout
-
-- Creates outputs that support future planning and resilience decisions
-:::
-
-:::::
-
-<div class="closing-line">
-Overall, the proposal is designed to be realistic, cost-effective and scalable within the available budget.
-</div>
 
 ------------------------------------------------------------------------
+
 
 ## Estimated Spending Plan and Value for Money {.wp-slide .budget-final}
 
