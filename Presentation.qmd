@@ -1,6 +1,6 @@
 ---
 title: "Jakarta Flood EO Project"
-author: "Bella, Zack, Zoe"
+author: "Bella, Zack, Zeyi"
 format:
   revealjs:
     theme: moon
