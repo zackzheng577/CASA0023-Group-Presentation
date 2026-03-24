@@ -149,3 +149,9 @@
 .reveal img {
   margin-top: 10px;
 }
+
+
+/* reference */
+.reveal section ul {
+  list-style-type: none;
+}

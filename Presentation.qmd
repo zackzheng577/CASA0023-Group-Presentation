@@ -371,24 +371,26 @@ Overall, the proposal is designed to be realistic, cost-effective and scalable w
 
 ## Reference
 
-Abidin, H. Z., Andreas, H., Gumilar, I., & Wibowo, I. R. R. (2015). On correlation between urban development, land subsidence and flooding phenomena in Jakarta. Proceedings of the International Association of Hydrological Sciences, 370, 15–20. https://doi.org/10.5194/piahs-370-15-2015 :contentReference[oaicite:0]{index="0"}\
+::: {style="font-size: 0.55em; line-height: 1.5;"}
 
-Abidin, H. Z., Andreas, H., Gumilar, I., Fukuda, Y., Pohan, Y. E., & Deguchi, T. (2011). Land subsidence of Jakarta (Indonesia) and its relation with urban development. Natural Hazards, 59, 1753–1771.\
+Abidin, H. Z., Andreas, H., Gumilar, I., & Wibowo, I. R. R. (2015). On correlation between urban development, land subsidence and flooding phenomena in Jakarta. *Proceedings of the IAHS*, 370, 15–20. https://doi.org/10.5194/piahs-370-15-2015  
 
-Badan Pusat Statistik (BPS). (2023). Jakarta in Figures 2023.BPS-Statistics Indonesia.\
+Abidin, H. Z., Andreas, H., Gumilar, I., Fukuda, Y., Pohan, Y. E., & Deguchi, T. (2011). Land subsidence of Jakarta and its relation with urban development. *Natural Hazards*, 59, 1753–1771.  
 
-Jakarta Satu. (n.d.). Jakarta Satu Geoportal.https://jakartasatu.jakarta.go.id/\
+Badan Pusat Statistik (BPS). (2023). *Jakarta in Figures 2023*.  
 
-Schumann, G.J.-P. & Di Baldassarre, G. (2010) The direct use of radar satellites for event-specific flood risk mapping. Hydrological Processes.
+Jakarta Satu. (n.d.). Jakarta Satu Geoportal. https://jakartasatu.jakarta.go.id/  
 
-Tellman, B. et al. (2021) Satellite imaging reveals increased proportion of population exposed to floods. Nature.
+Schumann, G. J.-P., & Di Baldassarre, G. (2010). The direct use of radar satellites for flood risk mapping. *Hydrological Processes*.  
 
-Twele, A. et al. (2016) Sentinel-1-based flood mapping: a fully automated processing chain. Remote Sensing.
+Tellman, B., et al. (2021). Satellite imaging reveals increased population exposure to floods. *Nature*.  
 
-United Nations. (2015). Transforming our world: The 2030 Agenda for Sustainable Development.\
+Twele, A., et al. (2016). Sentinel-1-based flood mapping: automated processing chain. *Remote Sensing*.  
 
-United Nations Office for Disaster Risk Reduction (UNDRR). (2015). Sendai Framework for Disaster Risk Reduction 2015–2030.\
+United Nations. (2015). *Transforming our world: The 2030 Agenda for Sustainable Development*.  
 
+UNDRR. (2015). *Sendai Framework for Disaster Risk Reduction 2015–2030*.  
 
+:::
 
 
